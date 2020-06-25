@@ -1,0 +1,34 @@
+.academicimg
+{
+border: 1px solid #ddd;
+  padding: 5px;
+  width: 200px;
+  height:150;
+}
+.academicimg:hover
+{
+	
+	border: 4px solid #ddd;
+	border-radius: 5px;
+}
+
+/*certificates file list*/
+.pl{
+	padding-left:20px;
+	padding:1px 3px 1px 3px;
+	margin-left:10px;
+	border:1px solid lightgray;
+	border-radius: 5px;
+	background-color:gray;
+}
+.clr
+{
+	color:#fff;
+}
+.screenimg
+{
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 480px;
+  height:333px;
+}
